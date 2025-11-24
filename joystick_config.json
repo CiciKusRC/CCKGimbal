@@ -1,0 +1,17 @@
+{
+    "YAW_AXIS": "Eksen 0",
+    "REVERSE_YAW": false,
+    "PITCH_AXIS": "Eksen 1",
+    "REVERSE_PITCH": true,
+    "SPEED_AXIS": "Eksen 3",
+    "REVERSE_SPEED": true,
+    "PHOTO_BUTTON": "D\u00fc\u011fme 6",
+    "RECORD_BUTTON": "D\u00fc\u011fme 5",
+    "TRACK_START_BUTTON": "D\u00fc\u011fme 0",
+    "TRACK_STOP_BUTTON": "D\u00fc\u011fme 1",
+    "TRACK_RESET_BUTTON": "D\u00fc\u011fme 2",
+    "ZOOM_IN_BUTTON": "Hat 0 Yukar\u0131",
+    "ZOOM_OUT_BUTTON": "Hat 0 A\u015fa\u011f\u0131",
+    "FOCUS_NEAR_BUTTON": "Hat 0 Sa\u011f",
+    "FOCUS_FAR_BUTTON": "Hat 0 Sol"
+}
